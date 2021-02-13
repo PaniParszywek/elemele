@@ -8,12 +8,12 @@ div.naglowek {
   color: white;
   text-align: center;
 }
-div.blok zwenetrzny {
+div.blok zewnetrzny {
   width: 1020px;
   margin-right: auto;
   margin-left: auto;
 }
-.nawigacja {
+div.nawigacja {
   font-size: 16px;
 }
 div#nawigacja *|a:link {
