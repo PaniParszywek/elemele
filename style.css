@@ -32,7 +32,7 @@ div.lewy *|body, *|p, *|li {
   margin-top: 5px;
   top: 3px;
 }
-div#lewy {
+div.lewy {
   float: left;
   width: 80%;
   height: 309px;
@@ -63,11 +63,4 @@ div.lewyb {
   height: 35%;
   border-bottom-style: solid;
   border-bottom-color: #333333;
-}
-div#lewy *|body, *|p, *|li {
-  display: inline;
-  padding-right: 60px;
-  padding-top: 5px;
-  margin-top: 5px;
-  top: 3px;
 }
