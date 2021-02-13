@@ -35,6 +35,7 @@ div.lewy *|body, *|p, *|li {
 div.lewy {
   float: left;
   width: 80%;
+  height: 500;
   padding-top: 0px;
   list-style-type: none;
 }
