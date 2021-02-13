@@ -1,7 +1,7 @@
-*|body {
+body {
   background-color: #e7e7e3;
 }
-*|div#nawigacja *|a:link {
+div#nawigacja *|a:link {
   border-style: solid;
   border-color: #1c1c1c;
   padding: 3px;
@@ -10,17 +10,17 @@
   background-color: #ffcccc;
   color: #333333;
 }
-*|#naglowek {
+div#naglowek {
   background-color: #333333;
   color: white;
   font-size: 2.7em;
   line-height: 1.4em;
   text-align: center;
 }
-*|#nawigacja {
+div.nawigacja {
   font-size: 16px;
 }
-*|#lewy {
+div#lewy {
   width: 80%;
   float: left;
   height: 500px;
@@ -28,7 +28,7 @@
   padding-top: 5px;
   padding-left: 0px;
 }
-*|#prawy {
+div.prawy {
   background-color: silver;
   width: 20%;
   float: right;
@@ -37,11 +37,11 @@
   padding-top: 10px;
   height: 493px;
 }
-*|#stopka {
+div.stopka {
   clear: both;
   background-color: silver;
 }
-*|#lewya {
+div#lewya {
   border-right-color: #333333;
   border-top-style: solid;
   height: 35%;
@@ -50,32 +50,32 @@
   border-top-color: #333333;
   padding-top: 0px;
 }
-*|#lewyb {
+div#lewyb {
   border-bottom-style: solid;
   border-bottom-color: #333333;
   height: 40%;
 }
-*|div#lewy *|body, *|p, *|li {
+div#lewy *|body, *|p, *|li {
   display: inline;
   padding-right: 60px;
   padding-top: 5px;
   margin-top: 5px;
   top: 3px;
 }
-*|div#lewyb *|body, *|p, *|li {
+div#lewyb *|body, *|p, *|li {
   padding-right: 35px;
 }
-*|div#lewya *|body, *|p, *|li {
+div#lewya *|body, *|p, *|li {
   padding-right: 60px;
 }
-*|div#lewya *|a *|img {
+div#lewya *|a *|img {
   padding-right: 25%;
   margin-right: 6px;
   margin-left: 8px;
   right: 2px;
   padding-left: 25%;
 }
-*|div#lewy *|a *|img {
+div#lewy *|a *|img {
   padding-right: 14px;
   padding-left: 14px;
   margin-right: 5px;
