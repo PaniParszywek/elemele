@@ -16,7 +16,7 @@ div.blok zewnetrzny {
 div.nawigacja {
   font-size: 16px;
 }
-div#nawigacja *|a:link {
+div.nawigacja *|a:link {
   border-style: solid;
   border-color: #1c1c1c;
   padding: 3px;
