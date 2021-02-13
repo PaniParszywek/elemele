@@ -1,0 +1,59 @@
+*|body {
+  background-color: #e7e7e3;
+}
+*|#naglowek {
+  background-color: #333333;
+  font-size: 2.7em;
+  line-height: 1.4em;
+  color: white;
+  text-align: center;
+}
+*|#blok *|zwenetrzny {
+  width: 1020px;
+  margin-right: auto;
+  margin-left: auto;
+}
+*|#nawigacja {
+  font-size: 16px;
+}
+*|div#nawigacja *|a:link {
+  border-style: solid;
+  border-color: #1c1c1c;
+  padding: 3px;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #ffcccc;
+  color: #333333;
+}
+*|#lewy {
+  float: left;
+  width: 80%;
+  height: 309px;
+  padding-top: 0px;
+  list-style-type: none;
+}
+*|#prawy {
+  float: right;
+  width: 20%;
+  background-color: silver;
+  height: 300px;
+  line-height: 30px;
+  margin-top: 0px;
+  padding-top: 10px;
+}
+*|#stopka {
+  clear: both;
+  background-color: silver;
+  text-align: center;
+}
+*|#lewya {
+  border-style: solid hidden;
+  height: 35%;
+  border-top-color: #333333;
+  border-bottom-color: #333333;
+}
+*|#lewyb {
+  height: 35%;
+  border-bottom-style: solid;
+  border-bottom-color: #333333;
+}
