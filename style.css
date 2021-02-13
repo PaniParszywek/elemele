@@ -25,7 +25,7 @@ div#nawigacja *|a:link {
   background-color: #ffcccc;
   color: #333333;
 }
-div#nawigacja *|body, *|p, *|li, *|ul {
+div#nawigacja  *|li, *|ul {
 display: block;
 	list-style: none;
 	margin: 0;
