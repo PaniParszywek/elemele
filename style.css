@@ -25,13 +25,6 @@ div#nawigacja *|a:link {
   background-color: #ffcccc;
   color: #333333;
 }
-div#nawigacja  *|li, *|ul {
-display: block;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	 display: inline;
-}
 div.lewy {
   float: left;
   width: 80%;
