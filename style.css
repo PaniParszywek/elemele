@@ -25,6 +25,13 @@ div#nawigacja *|a:link {
   background-color: #ffcccc;
   color: #333333;
 }
+div.lewy *|body, *|p, *|li {
+  display: inline;
+  padding-right: 60px;
+  padding-top: 5px;
+  margin-top: 5px;
+  top: 3px;
+}
 div.lewy {
   float: left;
   width: 80%;
