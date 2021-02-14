@@ -47,6 +47,7 @@ div.prawy {
   line-height: 40px;
   margin-top: 0px;
   padding-top: 10px;
+   padding-left: 10px;
 }
 div.stopka {
   clear: both;
